@@ -1,0 +1,4 @@
+# build artifacts
+dwm
+config.h
+*.o
